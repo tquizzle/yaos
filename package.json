@@ -13,7 +13,7 @@
 		"lib0": "0.2.117",
 		"partyserver": "0.3.2",
 		"qrcode-generator": "2.0.4",
-		"y-partyserver": "2.1.2",
+		"y-partyserver": "2.2.0",
 		"yjs": "^13.6.20"
 	},
 	"devDependencies": {
